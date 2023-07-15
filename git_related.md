@@ -1,0 +1,1 @@
+git global config is present in /home/user folder and global git ignore @ /home/user/.config/git
