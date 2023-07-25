@@ -1,0 +1,5 @@
+manjaro installation iso on ventoy drive.
+restart boot into ventoy and choose the manjaro iso
+in manjaro boot choose detect efi loaders, currently last option in menu.
+choose any x64 possibly with bootx64 or something like that in it.
+after booting into you normal manjaro installation reboot.
